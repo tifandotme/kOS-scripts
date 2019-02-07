@@ -8,4 +8,4 @@ Before runnning the program, make sure that your rocket meet these following cri
 
 >The last part is especially important, because sometimes the rocket can go back and forth when the heading system is set. So I highly recommend to enable rigid attachment and/or autostrut for your parts.
 
-Run the program alongside it's 2 parameter: `run launch(a, b)`. Where **a** is your target altitude (in km) and **b** is your desired orbit inclination.
+Run the program alongside it's 2 parameter: `run launch(a, b)`. Where **a** is your target orbit altitude (in km) and **b** is your desired orbit inclination.
