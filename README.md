@@ -1,7 +1,7 @@
 # kOS-scripts
 Library of scripts made for [kOS](https://github.com/KSP-KOS/KOS) (Kerbal Operating System).
 
-##launch.ks
+## launch.ks
 This kOS script will automate your launch with a [gravity turn](https://wiki.kerbalspaceprogram.com/wiki/Gravity_turn) maneuver in mind until your vessel in a parking circular orbit.
 
 First off, make sure that your rocket meet these following criteria in order to achieve the best possible ascent profile:
