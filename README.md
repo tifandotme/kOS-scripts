@@ -1,5 +1,6 @@
 # kOS-scripts
-Library of scripts made for [kOS](https://github.com/KSP-KOS/KOS) (Kerbal Operating System).
+~~Library of scripts~~ made for [kOS](https://github.com/KSP-KOS/KOS) (Kerbal Operating System).
+> I was planning to write more than one script a while back, but as in 2021, this "library" would only have one script for now.
 
 ## launch.ks
 This kOS script will automate your launch with a [gravity turn](https://wiki.kerbalspaceprogram.com/wiki/Gravity_turn) maneuver in mind until your vessel in a parking circular orbit.
